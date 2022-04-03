@@ -10,3 +10,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about open-source & aviation
 - 📫 How to reach me: [My Twitter Profile](https://twitter.com/HameesSayed2)
 
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=hamees-sayed&show_icons=true&theme=tokyonight " 
+/>
+
+
+
