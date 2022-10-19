@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Golang and Event-Driven Architecture.
-- 👯 I’m looking to collaborate on Golang based projects.
-- 💬 Ask me about open-source, aviation & startups.
+- 🌱 I’m currently learning Golang and Web Development.
 - ⚡Fun Fact: I love to draw and play basketball.
 
 
