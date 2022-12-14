@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Golang and Web Development.
+- 🌱 I’m currently learning Full Stack Web Development.
 - ⚡Fun Fact: I love to draw and play basketball.
 
 
